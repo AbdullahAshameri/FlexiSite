@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#" target="_blank">
-    <img src="images/logo.png" width="400">
+    <img src="image/image1.png" width="400">
   </a>
 </p>
 
@@ -47,11 +47,11 @@ This project is a professional, customizable web platform for a medical hearing 
 ![Dashboard](image/dashboard.png)
 - **Home**
 ![Article 1](image/image1.png)
-**products**
+- **products**
 ![Article 2](image/image2.png)
-**Services**
+- **Services**
 ![Article 3](image/image3.png)
-**Articles**
+- **Articles**
 ![Article 4](image/image4.png)
 
 ---
