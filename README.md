@@ -7,7 +7,7 @@
 # Medical Hearing Aid Agency Website (Updated Version of FlexiSite)
 
 <p align="center">
-This is the updated version of the project README. We improved the interfaces and added new features, including user management controls.
+This is the updated version of the project. We improved the interfaces and added new features, including user management controls.
 <a href="#"><img src="https://img.shields.io/badge/Project-Updated-brightgreen"></a>
 </p>
 
