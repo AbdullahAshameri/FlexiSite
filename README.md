@@ -47,12 +47,13 @@ This project is a professional, customizable web platform for a medical hearing 
 ![Dashboard](image/dashboard.png)
 - **Home**
 ![Article 1](image/image1.png)
-- **products**
+- **Products**
 ![Article 2](image/image2.png)
 - **Services**
 ![Article 3](image/image3.png)
 - **Articles**
 ![Article 4](image/image4.png)
+
 
 ---
 
@@ -60,5 +61,27 @@ This project is a professional, customizable web platform for a medical hearing 
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/abdullahashameri/Medical-Hearing-Aid-Website.git
-cd Medical-Hearing-Aid-Website
+git clone https://github.com/AbdullahAshameri/FlexiSite.git
+cd FlexiSite
+
+# 2️ Install PHP dependencies via Composer
+composer install
+
+# 3️ Copy the environment file and configure it
+cp .env.example .env
+
+# 4️ Generate the Laravel application key
+php artisan key:generate
+
+# 6️ Compile CSS and JS assets
+npm run dev
+
+# 7️ Set up the database
+php artisan migrate 
+php artisan db:seed
+
+# 8️ Start the Laravel development server
+php artisan serve
+# Open your browser at http://127.0.0.1:8000
+
+
