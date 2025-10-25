@@ -44,12 +44,12 @@ This project is a professional, customizable web platform for a medical hearing 
 
 ## Screenshots
 - **Admin Dashboard**
-![Dashboard](images/dashboard.png)
+![Dashboard](imageس/dashboard.png)
 - **Articles Management**
-![Article 1](images/image1.png)
-![Article 2](images/image2.png)
-![Article 3](images/image3.png)
-![Article 4](images/image4.png)
+![Article 1](image/image1.png)
+![Article 2](image/image2.png)
+![Article 3](image/image3.png)
+![Article 4](image/image4.png)
 
 ---
 
